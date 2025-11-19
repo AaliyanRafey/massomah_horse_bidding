@@ -16,17 +16,4 @@ This app focuses on:
 🔸 A premium modern look with animations and fast performance
 
 📸 Screenshots
-🔹 Splash Screen
-<img src="screenshots/splash.png" width="300"/>
-🔹 OTP Verification Flow
-<img src="screenshots/otp.png" width="300"/> <img src="screenshots/otp1.png" width="300"/> <img src="screenshots/otp2.png" width="300"/>
-🔹 Entry Screen
-<img src="screenshots/entery.png" width="300"/>
-🔹 Home Screen
-<img src="screenshots/home.png" width="300"/>
-🔹 Auction Module
-<img src="screenshots/auc.png" width="300"/> <img src="screenshots/auc1.png" width="300"/> <img src="screenshots/auc2.png" width="300"/> <img src="screenshots/auc3.png" width="300"/> <img src="screenshots/auc4.png" width="300"/>
-🔹 Card View
-<img src="screenshots/card.png" width="300"/>
-🔹 Additional Features
-<img src="screenshots/add2.png" width="300"/> <img src="screenshots/sett.png" width="300"/> <img src="screenshots/mashtar.png" width="300"/> <img src="screenshots/optadd.png" width="300"/> <img src="screenshots/stable.png" width="300"/> <img src="screenshots/mahfaz.png" width="300"/>
+<p align="center"> <img src="screenshots/splash.png" width="250"> <img src="screenshots/otp.png" width="250"> <img src="screenshots/otp1.png" width="250"> <img src="screenshots/otp2.png" width="250"> </p> <p align="center"> <img src="screenshots/entery.png" width="250"> <img src="screenshots/home.png" width="250"> <img src="screenshots/auc.png" width="250"> <img src="screenshots/auc1.png" width="250"> </p> <p align="center"> <img src="screenshots/auc2.png" width="250"> <img src="screenshots/auc3.png" width="250"> <img src="screenshots/auc4.png" width="250"> <img src="screenshots/card.png" width="250"> </p> <p align="center"> <img src="screenshots/add2.png" width="250"> <img src="screenshots/sett.png" width="250"> <img src="screenshots/mashtar.png" width="250"> <img src="screenshots/optadd.png" width="250"> </p> <p align="center"> <img src="screenshots/stable.png" width="250"> <img src="screenshots/mahfaz.png" width="250"> </p>
